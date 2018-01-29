@@ -1,0 +1,202 @@
+{
+    "0": {
+        "groupType": 0, 
+        "contents": 94, 
+        "singer": 0
+    }, 
+    "1": {
+        "groupType": 0, 
+        "contents": 95, 
+        "singer": 0
+    }, 
+    "2": {
+        "groupType": 0, 
+        "contents": 96, 
+        "singer": 0
+    }, 
+    "3": {
+        "groupType": 0, 
+        "contents": 97, 
+        "singer": 0
+    }, 
+    "4": {
+        "groupType": 0, 
+        "contents": 98, 
+        "singer": 0
+    }, 
+    "5": {
+        "groupType": 0, 
+        "contents": 99, 
+        "singer": 0
+    }, 
+    "6": {
+        "groupType": 0, 
+        "contents": 100, 
+        "singer": 0
+    }, 
+    "7": {
+        "groupType": 1, 
+        "contents": "0|5|10|16|20|21", 
+        "singer": "010110"
+    }, 
+    "8": {
+        "groupType": 1, 
+        "contents": "1|6|11|17|20|22", 
+        "singer": "010110"
+    }, 
+    "9": {
+        "groupType": 1, 
+        "contents": "2|7|13|18", 
+        "singer": "0101"
+    }, 
+    "10": {
+        "groupType": 1, 
+        "contents": "3|8|12|20|23", 
+        "singer": "01010"
+    }, 
+    "11": {
+        "groupType": 1, 
+        "contents": "4|9|15|19|20|24", 
+        "singer": "010110"
+    }, 
+    "12": {
+        "groupType": 1, 
+        "contents": "0|6|14|20|22", 
+        "singer": "01010"
+    }, 
+    "13": {
+        "groupType": 1, 
+        "contents": "2|5|10|17|20|23", 
+        "singer": "010110"
+    }, 
+    "14": {
+        "groupType": 1, 
+        "contents": "1|6|15|18", 
+        "singer": "0101"
+    }, 
+    "15": {
+        "groupType": 1, 
+        "contents": "0|5|20|23|24|22", 
+        "singer": "011000"
+    }, 
+    "16": {
+        "groupType": 2, 
+        "contents": "25|26|31|38|46", 
+        "singer": "00101"
+    }, 
+    "17": {
+        "groupType": 2, 
+        "contents": "27|28|26|33|43|46", 
+        "singer": "000101"
+    }, 
+    "18": {
+        "groupType": 2, 
+        "contents": "29|30|32|41|47", 
+        "singer": "00101"
+    }, 
+    "19": {
+        "groupType": 2, 
+        "contents": "29|30|37|39|40|48", 
+        "singer": "001001"
+    }, 
+    "20": {
+        "groupType": 2, 
+        "contents": "29|30|34|41|46", 
+        "singer": "00101"
+    }, 
+    "21": {
+        "groupType": 2, 
+        "contents": "29|30|35|42|47", 
+        "singer": "00101"
+    }, 
+    "22": {
+        "groupType": 2, 
+        "contents": "29|30|36|43|46|49", 
+        "singer": "001010"
+    }, 
+    "23": {
+        "groupType": 2, 
+        "contents": "25|26|31|44|46|51", 
+        "singer": "001010"
+    }, 
+    "24": {
+        "groupType": 2, 
+        "contents": "27|26|30|31|45|47|48", 
+        "singer": "0010101"
+    }, 
+    "25": {
+        "groupType": 2, 
+        "contents": "29|30|33|45|36|51", 
+        "singer": "001010"
+    }, 
+    "26": {
+        "groupType": 3, 
+        "contents": 52, 
+        "singer": 0
+    }, 
+    "27": {
+        "groupType": 3, 
+        "contents": 53, 
+        "singer": "0"
+    }, 
+    "28": {
+        "groupType": 3, 
+        "contents": 54, 
+        "singer": "0"
+    }, 
+    "29": {
+        "groupType": 3, 
+        "contents": 55, 
+        "singer": "0"
+    }, 
+    "30": {
+        "groupType": 3, 
+        "contents": 56, 
+        "singer": "0"
+    }, 
+    "31": {
+        "groupType": 4, 
+        "contents": "60|60|60|60", 
+        "singer": "0101"
+    }, 
+    "32": {
+        "groupType": 4, 
+        "contents": "57|59|58", 
+        "singer": "1010"
+    }, 
+    "33": {
+        "groupType": 4, 
+        "contents": "57|57|60|60", 
+        "singer": "0101"
+    }, 
+    "34": {
+        "groupType": 5, 
+        "contents": "61|62|63|64|65|66|67|68", 
+        "singer": "01110001"
+    }, 
+    "35": {
+        "groupType": 5, 
+        "contents": "61|62|69|70|71|72|67|68", 
+        "singer": "01110001"
+    }, 
+    "36": {
+        "groupType": 5, 
+        "contents": "61|62|73|74|75|76|77|67|68", 
+        "singer": "011100001"
+    }, 
+    "37": {
+        "groupType": 5, 
+        "contents": "61|62|78|79|80|81|67|68", 
+        "singer": "01110001"
+    }, 
+    "38": {
+        "groupType": 5, 
+        "contents": "61|62|82|83|84|85|86|87", 
+        "singer": "01110101"
+    }, 
+    "39": {
+        "groupType": 6, 
+        "contents": "88|89|90|91|92|93", 
+        "singer": 11101
+    }
+}
